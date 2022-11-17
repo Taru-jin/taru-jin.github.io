@@ -3,8 +3,12 @@
   font-size: medium;
 }
 .hii {
-  text-align: center;
+  text-align: left;
 }
 h1 {
-  color: aquamarine;
+  color: black;
+}
+i {
+  background-color: antiquewhite;
+  justify-content: right;
 }
